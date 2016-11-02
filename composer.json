@@ -1,0 +1,11 @@
+{
+    "name": "jmauerhan/wait-for-it",
+    "type": "script",
+    "authors": [
+        {
+            "name": "Jessica Mauerhan",
+            "email": "jessicamauerhan@gmail.com"
+        }
+    ],
+    "require": {}
+}
